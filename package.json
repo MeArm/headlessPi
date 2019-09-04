@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mimeindustries/headlessPi.git"
+    "url": "https://github.com/mearm/headlessPi.git"
   },
   "keywords": [
     "Raspberry",
@@ -19,9 +19,9 @@
   "author": "Mime Industries",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mimeindustries/headlessPi/issues"
+    "url": "https://github.com/mearm/headlessPi/issues"
   },
-  "homepage": "https://github.com/mimeindustries/headlessPi#readme",
+  "homepage": "https://github.com/mearm/headlessPi#readme",
   "devDependencies": {
     "express-print-routes": "^1.0.0"
   },
@@ -31,7 +31,7 @@
     "express": "^4.15.2",
     "glob": "^7.1.1",
     "handlebars": "^4.0.8",
-    "wireless-tools": "git+https://git@github.com/headlessPi/wireless-tools.git",
+    "wireless-tools": "git+https://git@github.com/mearm/wireless-tools.git",
     "wpa-supplicant-conf": "^0.1.7"
   }
 }
